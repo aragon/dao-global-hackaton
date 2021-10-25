@@ -3,7 +3,7 @@
 **Our Goal for This Hackathon:** We are looking to further the world of DAO Tooling and open up the Aragon Stack to all communities.
 
 ## Aragon Bounties Are Focused On
-** Integrations and furthering DAO Tooling**
+**Integrations and furthering DAO Tooling**
 
 This is an event focused on **DAO tooling**. It's also a highly collaborative event, and you'll see that we've co-sponsored several bounties with other teams.
 
